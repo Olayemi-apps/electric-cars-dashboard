@@ -28,12 +28,11 @@ electric_cars["Year"] = electric_cars['Date'].dt.year
 # Format and create Month into a separate column
 electric_cars["Months"] = electric_cars['Date'].dt.month_name()
 
-#app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
-
 
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets,
                 meta_tags=[{"name": "viewport", "content": "width=device-width"}])
+server = app.server
 
 
 app.layout = html.Div([
