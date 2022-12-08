@@ -1,0 +1,186 @@
+Date,Make,BodyType,Title,Mileage Range(km),topspeed_km/h,range_km,efficiency_Wh/km,fastcharge_speed_km/h,price_de_euro,price_nl_euro,price_uk_pound,Sales,E-Type
+08/01/2021,Nissan,Passenger Van,Nissan e-NV200 Evalia ,low,123,170,218,170,43433,45173,30255,1391741,Electric
+23/03/2017,Dacia,Hatchback,Dacia Spring Electric,low,125,170,158,120,20490,17890,28500,1723032,Hybrid
+06/08/2021,Volkswagen,Hatchback,Volkswagen e-Up! ,low,130,205,158,170,23490,25850,21055,1011138,Plugin-Hybrid
+18/06/2017,SEAT,Hatchback,SEAT Mii Electric ,low,130,205,158,170,24650,25000,25680,719407,Plugin-Hybrid
+14/07/2022,Renualt,Passenger Van,Renault Kangoo Maxi ZE 33,low,130,160,194,170,35480,38801,31680,1048780,Plugin-Hybrid
+24/02/2018,Smart forfour,Hatchback,Smart EQ forfour ,low,130,95,176,170,19120,23995,19795,1609141,Plugin-Hybrid
+13/09/2016,Smart fortwo ,Hatchback,Smart EQ fortwo coupe,low,130,100,167,170,18460,23995,19200,1668268,Electric
+10/10/2022,Toyota,Passenger Van,Toyota PROACE Verso M 75 kWh,low,130,250,260,290,64530,58995,55000,784923,Electric
+09/04/2022,Opel ZL,Passenger Van,Opel Zafira-e Life L 75 kWh,low,130,250,260,290,60625,63150,56000,954043,Electric
+20/05/2017,Toyota,Passenger Van,Toyota PROACE Verso L 75 kWh,low,130,250,260,290,65385,60195,40000,926956,Electric
+07/11/2018,Peugeot,Passenger Van,Peugeot e-Traveller Long 75 kWh,low,130,270,252,290,58230,58000,43000,1055805,Hybrid
+05/01/2022,Peugeot,Passenger Van,Peugeot e-Traveller Standard 75 kWh,low,130,270,252,290,57440,55000,57500,1346711,Hybrid
+04/05/2019,Smart fortwo,Hatchback,Smart EQ fortwo cabrio,low,130,95,176,250,21720,26995,21620,1520104,Electric
+20/07/2021,Citroen ,Passenger Van,Citroen e-SpaceTourer M 75 kWh,low,130,250,260,290,57440,62026,66000,1882530,Electric
+24/12/2016,Citroen,Passenger Van,Citroen e-SpaceTourer M 50 kWh,low,130,180,250,240,51440,53011,31995,1775253,Hybrid
+15/04/2018,Opel L,Passenger Van,Opel Zafira-e Life L 50 kWh,low,130,175,257,230,54625,54196,49465,1619791,Hybrid
+09/05/2019,Peugeot,Passenger Van,Peugeot e-Traveller Standard 50 kWh,low,130,185,243,250,55900,53500,56500,1994361,Plugin-Hybrid
+20/12/2022,Toyota,Passenger Van,Toyota PROACE Verso M 50 kWh,low,130,185,243,250,58530,57500,59000,632372,Plugin-Hybrid
+16/01/2020,Citroen ,Passenger Van,Citroen e-SpaceTourer XL 75 kWh,low,130,250,260,290,58230,63962,65000,1461209,Hybrid
+18/04/2020,Peugeot,Passenger Van,Peugeot e-Traveller Compact 50 kWh,low,130,185,243,250,50880,50000,49000,1700679,Electric
+20/08/2017,Opel,Passenger Van,Opel Zafira-e Life M 75 kWh,low,130,250,260,290,59800,62061,38000,1221070,Electric
+03/11/2017,Toyota,Passenger Van,Toyota PROACE Verso L 50 kWh,low,130,180,250,240,59385,58000,63000,1442477,Hybrid
+05/09/2019,Opel M,Passenger Van,Opel Zafira-e Life M 50 kWh,low,130,180,250,240,53800,53107,46700,943586,Hybrid
+07/01/2022,Citroen,Passenger Van,Citroen e-SpaceTourer XS 50 kWh,low,130,185,243,250,50880,50000,49890,1613089,Plugin-Hybrid
+20/07/2018,Opel LS,Passenger Van,Opel Zafira-e Life S 50 kWh,low,130,185,243,250,56700,55000,59000,1844502,Plugin-Hybrid
+16/06/2021,Citroen ,Passenger Van,Citroen e-SpaceTourer XL 50 kWh,low,130,175,257,230,52230,54947,55000,828602,Hybrid
+04/09/2021,Peugeot,Passenger Van,Peugeot e-Traveller Long 50 kWh,low,130,185,243,250,56690,56600,49905,1359520,Hybrid
+18/07/2020,JAC,SUV,JAC iEV7s ,low,132,225,173,160,30000,32210,33500,870673,Electric
+24/12/2017,Renualt ,Hatchback,Renault Zoe ZE50 R110,low,135,315,165,230,31990,33990,26795,968573,Electric
+20/02/2020,Renualt ,Hatchback,Renault Zoe ZE40 R110,low,135,255,161,230,29990,30000,33000,735637,Hybrid
+24/03/2020,Renualt ,Hatchback,Renault Twingo Electric,low,135,130,164,230,24790,20690,22000,875458,Plugin-Hybrid
+19/05/2019,Fiat 500,Hatchback,Fiat 500e Hatchback 24 kWh,low,135,165,144,260,23560,24900,20495,508151,Plugin-Hybrid
+26/02/2022,Peugeot,Passenger Van,Peugeot e-Rifter Standard 50 kWh,low,135,200,225,270,37590,30500,30375,1182488,Electric
+15/05/2017,Peugeot ,Passenger Van,Peugeot e-Rifter Long 50 kWh,low,135,195,231,260,42590,31000,32455,1577196,Electric
+16/12/2018,MG,SUV,MG ZS EV,low,140,220,193,260,31990,30985,25995,1786666,Electric
+08/01/2020,Mazda,SUV,Mazda MX-30 ,low,140,170,176,180,34490,33990,26045,1303434,Hybrid
+20/02/2018,Renualt ,Hatchback,Renault Zoe ZE50 R135,low,140,310,168,230,33990,35590,28795,779623,Hybrid
+28/09/2018,Sono,Passenger Van,Sono Sion ,low,140,260,181,310,25500,26000,27500,822528,Plugin-Hybrid
+14/08/2019,Nissan L,Hatchback,Nissan Leaf ,low,144,225,164,230,29990,34990,25995,1458232,Plugin-Hybrid
+09/04/2021,Honda E,Hatchback,Honda e ,low,145,170,168,190,33850,35820,27660,1925752,Plugin-Hybrid
+10/07/2016,Honda E Advance,Hatchback,Honda e Advance,low,145,170,168,190,38000,39080,30160,1448033,Electric
+02/01/2018,Aiways,SUV,Aiways U5 ,low,150,335,188,350,35993,39950,42000,1267846,Electric
+13/06/2019,Peugeot ,Hatchback,Peugeot e-208 ,low,150,275,164,370,30450,34900,27225,701942,Hybrid
+29/10/2018,BMW i3,Hatchback,BMW i3 120 Ah,low,150,235,161,270,39000,39995,31305,1393177,Plugin-Hybrid
+15/11/2018,Peugeot,SUV,Peugeot e-2008 SUV ,low,150,250,180,330,35450,40930,30730,1885824,Hybrid
+29/12/2020,Opel Corsa,Hatchback,Opel Corsa-e ,low,150,275,164,370,29000,30599,27140,869062,Electric
+05/01/2022,Citroen EC4,Hatchback,Citroen e-C4 ,low,150,250,180,330,34640,33990,30895,1515471,Electric
+03/02/2021,Lightyear One,Saloon,Lightyear One ,low,150,575,104,540,149000,149990,150000,1096637,Hybrid
+16/03/2016,Opel Mokka_E,SUV,Opel Mokka-e ,low,150,255,176,340,34110,34399,30540,1376987,Hybrid
+20/03/2022,Fiat 500E Hatchback ,Hatchback,Fiat 500e Hatchback 42 kWh,low,150,250,149,420,27560,28600,23995,608036,Electric
+13/04/2017,Opel Ampera,Saloon,Opel Ampera-e ,low,150,335,173,210,42990,43000,44500,1964834,Electric
+24/05/2016,Fiat 500E Cabrio,Cabriolet,Fiat 500e Cabrio,low,150,245,152,410,30560,31600,26645,843476,Plugin-Hybrid
+13/06/2017,Mini Cooper,Hatchback,Mini Cooper SE ,low,150,185,156,260,32500,36200,26000,1202302,Plugin-Hybrid
+10/07/2021,DS Crossback,SUV,DS 3 Crossback E-Tense,low,150,250,180,330,30040,39990,31500,1994168,Plugin-Hybrid
+15/08/2018,Fiat 500E,Hatchback,Fiat 500e 3+1,low,150,245,152,410,29560,30600,32000,507861,Hybrid
+10/09/2019,Hyundai,SUV,Hyundai Kona Electric 39 kWh,low,155,250,157,210,34850,36795,38000,973715,Hybrid
+12/02/2022,Seres,SUV,Seres 3 ,low,155,270,193,390,33000,37995,39000,1414110,Electric
+18/04/2022,Hyundai,SUV,Hyundai Kona Electric 39 kWh,low,155,250,157,210,35650,37000,27950,895539,Electric
+12/08/2016,Kia,SUV,Kia e-Niro 39 kWh,low,155,235,167,230,35290,35995,30345,830334,Hybrid
+07/02/2016,Nissan,Hatchback,Nissan Leaf e+,low,157,325,172,390,38350,41940,30445,952302,Plugin-Hybrid
+09/03/2022,Kia,SUV,Kia e-Soul 39 kWh,low,157,230,170,220,33990,33495,35000,807793,Plugin-Hybrid
+18/01/2020,Renualt ,SUV,Renault Megane E-Tech EV60 220hp,mid,160,360,167,520,40000,40000,43000,1133779,Plugin-Hybrid
+25/02/2016,Skoda ,SUV,Skoda Enyaq iV 80,mid,160,420,183,510,43950,47780,39365,803001,Electric
+15/04/2020,Mercedes ,Saloon,Mercedes EQE 350,mid,160,535,168,680,70000,70000,60000,1106516,Electric
+18/05/2019,Volkswagen ,SUV,Volkswagen ID.4 1st,mid,160,410,188,500,40000,40000,40800,1846769,Electric
+01/07/2022,Mercedes ,SUV,Mercedes EQA 250,mid,160,355,187,420,47541,49995,43495,1920948,Plugin-Hybrid
+12/08/2022,Audi ,SUV,Audi Q4 e-tron 40,mid,160,405,189,500,47500,52815,44990,753104,Plugin-Hybrid
+11/10/2017,Skoda ,SUV,Skoda Enyaq iV 60,mid,160,330,176,420,38850,40780,32010,1223932,Plugin-Hybrid
+19/12/2017,Audi ,SUV,Audi Q4 e-tron 35,mid,160,280,184,390,41900,48295,40750,1507515,Electric
+10/01/2021,Volkswagen,SUV,Volkswagen ID.4 Pro Performance,mid,160,410,188,500,44450,47790,41570,783148,Electric
+13/03/2016,Skoda ,SUV,Skoda Enyaq iV 50,mid,160,295,176,240,33800,35000,37000,665582,Electric
+16/12/2022,Skoda ,SUV,Skoda Enyaq iV Sportline 80x,mid,160,400,193,490,47000,50000,42915,1638916,Electric
+18/11/2016,Volkswagen ,SUV,Volkswagen ID.3 Pro,mid,160,350,166,490,35460,36240,28435,650241,Hybrid
+12/04/2018,Renualt ,SUV,Renault Megane E-Tech EV40 130hp,mid,160,245,163,510,35000,35000,32500,1014732,Hybrid
+15/05/2021,Audi ,SUV,Audi Q4 Sportback e-tron 40,mid,160,425,180,520,49500,54865,55000,1942634,Hybrid
+24/07/2019,Volkswagen,SUV,Volkswagen ID.3 Pro S - 5 Seats,mid,160,450,171,550,42620,41990,43000,714017,Plugin-Hybrid
+10/09/2020,Lexus,SUV,Lexus UX 300e,mid,160,260,192,150,47550,39990,43900,1637445,Plugin-Hybrid
+13/11/2019,Nissan ,SUV,Nissan Ariya 87kWh,mid,160,445,196,530,50000,52000,45000,503330,Plugin-Hybrid
+04/09/2019,Volvo ,SUV,Volvo XC40 Recharge Pure Electric,mid,160,315,213,400,43000,45995,47000,961807,Electric
+10/06/2021,Polestar 2,Saloon,Polestar 2 Long Range Single Motor,mid,160,425,176,550,49500,49900,42900,1932232,Electric
+02/08/2021,CUPRA Born,Hatchback,CUPRA Born 170 kW - 82 kWh,mid,160,450,171,550,43000,43000,42000,1210063,Electric
+13/04/2017,Volkswagen ,SUV,Volkswagen ID.3 Pure Performance,mid,160,275,164,410,30000,33490,27135,649812,Hybrid
+17/05/2022,Mercedes ,SUV,Mercedes EQA 350 4MATIC,mid,160,350,190,420,56216,55000,57000,1901043,Hybrid
+05/12/2021,Mercedes ,SUV,Mercedes EQB 350 4MATIC,mid,160,340,196,400,60000,60000,50000,1527800,Plugin-Hybrid
+18/06/2017,Volkswagen ,SUV,Volkswagen ID.3 Pro Performance,mid,160,350,166,490,36960,37740,29755,1059753,Plugin-Hybrid
+25/01/2017,Mercedes ,Passenger Van,Mercedes EQV 300 Long,mid,160,320,281,280,71388,74609,70665,1778996,Electric
+19/09/2021,BMW ,Hatchback,BMW i3s 120 Ah,mid,160,230,165,260,42600,43690,32305,1577173,Electric
+14/04/2018,Volkswagen ,SUV,Volkswagen ID.3 Pro S - 4 Seats,mid,160,450,171,550,42460,43369,38815,872438,Plugin-Hybrid
+02/05/2022,CUPRA Born,Hatchback,CUPRA Born 110 kW - 55 kWh,mid,160,275,164,440,32700,33000,28500,1064075,Plugin-Hybrid
+13/03/2019,CUPRA Born,Hatchback,CUPRA Born 150 kW - 62 kWh,mid,160,350,166,440,37220,37990,30500,1300394,Hybrid
+21/07/2020,Polestar 2,Saloon,Polestar 2 Standard Range Single Motor,mid,160,350,174,430,46500,45900,39900,798052,Electric
+22/01/2021,Volkswagen ,SUV,Volkswagen ID.4 Pure,mid,160,285,182,410,36950,40690,32150,534309,Hybrid
+04/09/2016,Mercedes ,SUV,Mercedes EQA 300 4MATIC,mid,160,350,190,420,53538,54789,55000,1767004,Plugin-Hybrid
+16/12/2017,Volkswagen ,SUV,Volkswagen ID.4 Pure Performance,mid,160,285,182,410,38450,42190,36030,998136,Electric
+09/08/2017,Nissan ,SUV,Nissan Ariya 63kWh,mid,160,335,188,450,45000,44000,38000,691190,Plugin-Hybrid
+16/05/2019,CUPRA Born,Hatchback,CUPRA Born 170 kW - 62 kWh,mid,160,345,168,430,39000,39000,31500,1685360,Hybrid
+25/04/2018,Audi ,SUV,Audi Q4 Sportback e-tron 35,mid,160,295,175,410,43900,50345,42250,1256992,Electric
+16/03/2018,Mercedes ,Passenger Van,Mercedes EQV 300 Extra-Long,mid,160,320,281,280,72281,75674,76000,1925719,Hybrid
+27/10/2017,Hyundai ,Saloon,Hyundai IONIQ Electric,mid,165,250,153,220,35350,37015,30550,718565,Plugin-Hybrid
+12/12/2019,Hyundai,SUV,Hyundai Kona Electric 64 kWh,mid,167,395,162,370,41850,41595,45000,1012389,Electric
+15/11/2016,Kia,SUV,Kia e-Niro 64 kWh,mid,167,370,173,350,39090,38995,32445,571774,Hybrid
+11/10/2018,Hyundai ,SUV,Hyundai Kona Electric 64 kWh,mid,167,395,162,370,41850,41000,32550,985151,Plugin-Hybrid
+09/05/2021,Kia,SUV,Kia e-Soul 64 kWh,mid,167,370,173,350,36000,34000,37545,1576645,Electric
+01/07/2020,Kia,SUV,Kia e-Soul 64 kWh,mid,167,370,173,350,37790,36495,38000,1908378,Electric
+17/01/2022,Volkswagen ,SUV,Volkswagen ID.4 GTX,max,180,400,193,490,50415,52190,55540,570100,Plugin-Hybrid
+04/11/2022,Mercedes ,SUV,Mercedes EQC 400 4MATIC,max,180,370,216,440,66069,77935,65720,854611,Hybrid
+13/06/2016,Audi ,SUV,Audi Q4 e-tron 50 quattro,max,180,385,199,470,53600,64815,51370,960160,Hybrid
+08/04/2017,Volovo,SUV,Volvo XC40 Recharge Twin Pure Electric,max,180,340,221,440,59250,56495,49950,943188,Electric
+10/08/2021,Skoda ,SUV,Skoda Enyaq iV RS,max,180,395,195,480,50000,55000,46000,937388,Electric
+03/05/2019,Ford ,SUV,Ford Mustang Mach-E ER RWD,max,180,440,200,430,54475,58575,49980,1251048,Electric
+17/03/2022,BMW ,Hatchback,BMW iX3 ,max,180,385,192,520,67300,69000,59730,648689,Hybrid
+14/02/2022,Ford,SUV,Ford Mustang Mach-E ER AWD,max,180,420,210,410,62900,67640,57030,729555,Hybrid
+09/04/2018,Ford ,SUV,Ford Mustang Mach-E SR RWD,max,180,345,197,380,46900,50425,41330,1069255,Plugin-Hybrid
+31/08/2017,Volvo ,SUV,Volvo C40 Recharge,max,180,340,221,440,62050,57995,57400,1217842,Plugin-Hybrid
+10/03/2018,Audi ,SUV,Audi Q4 Sportback e-tron 50 quattro,max,180,400,192,490,55600,66865,52870,869418,Electric
+05/11/2020,Audi ,SUV,Audi Q4 e-tron 45 quattro,max,180,385,199,470,50900,58065,60000,1928217,Electric
+09/10/2018,MG ,Estate,MG MG5 Electric,max,180,340,168,440,35000,35000,36000,1570985,Hybrid
+15/12/2016,Tesla ,SUV,Tesla Cybertruck Single Motor,max,180,390,256,740,45000,45000,39000,1930819,Hybrid
+14/04/2022,Ford ,SUV,Ford Mustang Mach-E SR AWD,max,180,330,206,360,54000,58165,46650,1049588,Plugin-Hybrid
+01/08/2017,Hyundai ,SUV,Hyundai IONIQ 5 Long Range 2WD,max,185,385,189,890,45100,46500,41945,578912,Plugin-Hybrid
+13/02/2022,Hyundai ,SUV,Hyundai IONIQ 5 Long Range AWD,max,185,375,194,870,48900,54500,45145,636835,Electric
+15/06/2020,Hyundai ,SUV,Hyundai IONIQ 5 Project 45,max,185,370,196,860,59550,58995,48000,1271989,Electric
+11/10/2021,Kia ,SUV,Kia EV6 Long Range 2WD,max,185,420,184,980,48990,52095,48000,1412111,Electric
+25/05/2022,Kia ,SUV,Kia EV6 Long Range AWD,max,185,410,189,950,52850,54595,52000,1788344,Electric
+15/04/2019,Hyundai ,SUV,Hyundai IONIQ 5 Standard Range 2WD,max,185,310,187,720,41900,43500,36995,1972976,Hybrid
+12/01/2019,MG ,Estate,MG MG5 EV,max,185,295,165,340,22500,23000,25095,1509972,Hybrid
+09/07/2020,MG ,Estate,MG MG5 EV Long Range,max,185,340,168,340,24000,24500,26495,1475292,Plugin-Hybrid
+10/06/2017,Kia ,SUV,Kia EV6 Standard Range 2WD,max,185,320,181,740,44990,44595,40985,581117,Plugin-Hybrid
+16/02/2019,Hyundai ,SUV,Hyundai IONIQ 5 Standard Range AWD,max,185,305,190,710,45700,45000,47000,1893292,Electric
+19/04/2017,BMW ,Saloon,BMW i4 eDrive40,max,190,475,170,660,58300,60697,51905,1321797,Electric
+31/08/2018,Audi,Saloon,Audi e-tron 50 quattro,max,190,280,231,470,69100,62700,60600,1838188,Electric
+16/09/2018,Tesla ,SUV,Tesla Cybertruck Dual Motor,max,190,460,261,710,55000,56000,48000,1323122,Hybrid
+15/10/2021,Audi ,SUV,Audi e-tron Sportback 50 quattro,max,190,295,219,490,71350,65100,69100,1249535,Hybrid
+22/12/2017,Byton ,SUV,Byton M-Byte 95 kWh 4WD,max,190,390,244,460,64000,65000,60000,1427155,Hybrid
+14/05/2016,Byton ,SUV,Byton M-Byte 95 kWh 2WD,max,190,400,238,480,62000,62500,57500,518970,Plugin-Hybrid
+06/03/2016,Byton ,SUV,Byton M-Byte 72 kWh 2WD,max,190,325,222,420,53500,55000,50000,1828919,Plugin-Hybrid
+10/04/2018,MG ,SUV,MG Marvel R Performance,max,200,330,197,380,50000,50000,33567,1487264,Plugin-Hybrid
+20/08/2018,BMW,SUV,BMW iX xDrive50,max,200,505,208,620,98000,105472,91905,1892195,Plugin-Hybrid
+14/02/2016,Audi,SUV,Audi e-tron 55 quattro,max,200,365,237,590,69990,70000,71500,1343513,Electric
+25/03/2019,Lucid Air Pure,Saloon,Lucid Air Pure,max,200,540,157,1410,80000,80000,70000,1451811,Electric
+16/07/2022,BMW ,SUV,BMW iX xDrive40,max,200,350,203,470,77300,86972,69905,1170813,Electric
+06/01/2021,Jaguar ,SUV,Jaguar I-Pace EV400,max,200,380,223,360,77300,83072,65195,965944,Plugin-Hybrid
+18/05/2022,Audi ,SUV,Audi e-tron Sportback 55 quattro,max,200,375,231,600,78000,78500,79900,1585912,Plugin-Hybrid
+30/08/2018,MG ,SUV,MG Marvel R ,max,200,340,191,390,40000,40000,42000,771842,Plugin-Hybrid
+03/04/2019,Ford Mustang,SUV,Ford Mustang Mach-E GT,max,200,410,215,400,74500,75490,67225,1677800,Electric
+19/03/2019,Nissan ,SUV,Nissan Ariya e-4ORCE 87kWh,max,200,420,207,500,57500,55000,48000,1095660,Electric
+22/06/2018,Audi ,SUV,Audi e-tron 55 quattro,max,200,365,237,590,81500,71500,80000,1843793,Hybrid
+03/07/2017,Nissan ,SUV,Nissan Ariya e-4ORCE 87kWh Performance,max,200,385,226,460,65000,60000,52000,905609,Plugin-Hybrid
+24/12/2021,Audi ,SUV,Audi e-tron Sportback 55 quattro,max,200,375,231,600,83750,73900,75000,1347309,Plugin-Hybrid
+15/09/2019,Nissan ,SUV,Nissan Ariya e-4ORCE 63kWh,max,200,325,194,440,50000,46000,40000,1474857,Electric
+10/09/2019,Polestar 2 ,Saloon,Polestar 2 Long Range Dual Motor,max,205,395,190,510,52500,53900,45900,890574,Electric
+11/10/2020,Mercedes ,Saloon,Mercedes EQS 580 4MATIC,max,210,610,177,800,135529,154949,115000,1946638,Hybrid
+13/01/2022,Mercedes ,Saloon,Mercedes EQS 450+,max,210,640,168,840,106374,118891,95000,553130,Electric
+19/10/2019,Tesla ,SUV,Tesla Cybertruck Tri Motor,max,210,750,267,710,75000,78000,68000,1873535,Hybrid
+05/07/2021,Audi ,SUV,Audi e-tron S 55 quattro,max,210,320,270,510,93800,104540,87000,1886906,Plugin-Hybrid
+26/03/2020,Audi,Saloon,Audi e-tron S Sportback 55 quattro,max,210,335,258,540,96050,106940,88700,830199,Electric
+05/02/2016,Tesla ,SUV,Tesla Model Y Long Range Dual Motor,max,217,410,171,590,59965,65010,54000,1061595,Hybrid
+16/09/2021,Porsche,Saloon,Porsche Taycan 4 Cross Turismo,max,220,405,207,850,93635,97399,79340,798471,Plugin-Hybrid
+09/04/2017,Tesla ,Saloon,Tesla Model 3 Standard Range Plus LFP,max,225,350,150,630,43560,49990,40990,603452,Electric
+04/05/2016,Tesla ,Saloon,Tesla Model 3 Standard Range Plus,max,225,350,146,700,43560,49990,40990,1834950,Electric
+12/06/2022,BMW,Saloon,BMW i4 M50,max,225,450,179,630,69900,73496,63905,1633744,Hybrid
+06/01/2017,Porsche ,Saloon,Porsche Taycan Plus,max,230,460,182,960,89244,93244,74739,834427,Plugin-Hybrid
+14/07/2022,Porsche ,Saloon,Porsche Taycan ,max,230,395,180,790,83520,87200,70690,711887,Electric
+15/05/2019,Tesla ,Saloon,Tesla Model 3 Long Range Dual Motor,max,233,455,154,650,49000,50000,48490,509297,Plugin-Hybrid
+02/04/2022,Tesla ,Saloon,Tesla Model 3 Long Range Dual Motor,max,233,490,155,820,53560,57990,58000,976070,Hybrid
+15/10/2017,Porsche ,Saloon,Porsche Taycan 4S Cross Turismo,max,240,405,207,850,111842,116000,87820,1580269,Plugin-Hybrid
+25/11/2021,Tesla ,SUV,Tesla Model Y Performance,max,241,430,177,720,66965,71010,60000,743099,Hybrid
+08/09/2018,Audi ,Saloon,Audi e-tron GT quattro,max,245,420,202,840,99800,104895,79900,941210,Electric
+03/03/2018,Audi ,Saloon,Audi e-tron GT RS,max,250,405,210,810,138200,146295,110950,927801,Hybrid
+08/01/2016,Tesla ,Saloon,Tesla Model S Long Range,max,250,555,162,830,86990,91000,83980,876808,Plugin-Hybrid
+18/06/2021,Mercedes ,Saloon,Mercedes EQS AMG 53 4MATIC+,max,250,565,191,740,175000,175000,135000,1915799,Hybrid
+04/07/2019,Porsche ,Saloon,Porsche Taycan 4S,max,250,375,189,750,106487,110600,83580,1426420,Electric
+15/12/2019,Tesla ,SUV,Tesla Model X Long Range,max,250,475,189,710,95990,101000,90980,1346214,Hybrid
+20/05/2021,Lucid Air Touring,Saloon,Lucid Air Touring,max,250,530,160,1390,95000,100000,90000,681476,Electric
+18/03/2018,Porsche ,Saloon,Porsche Taycan 4S Plus,max,250,435,192,910,113008,116431,88193,1861207,Hybrid
+03/08/2016,Porsche,Saloon,Porsche Taycan Turbo S Cross Turismo,max,250,380,220,790,187746,193200,139910,518446,Electric
+20/04/2022,Porsche ,Saloon,Porsche Taycan Turbo Cross Turismo,max,250,385,217,800,154444,159300,116950,1951083,Electric
+09/09/2022,Kia EV6 GT,SUV,Kia EV6 GT,max,260,395,196,920,65990,63595,58295,1928054,Plugin-Hybrid
+14/05/2017,Porsche ,Saloon,Porsche Taycan Turbo S,max,260,390,215,860,186336,191700,138830,1870843,Electric
+27/03/2017,Porsche ,Saloon,Porsche Taycan Turbo,max,260,400,209,840,153016,157900,115860,975232,Hybrid
+26/06/2020,Tesla ,Saloon,Tesla Model 3 Performance,max,261,470,162,790,58560,64990,59990,973843,Electric
+29/10/2019,Tesla ,SUV,Tesla Model X Plaid,max,262,455,198,680,116990,121000,110980,1044370,Hybrid
+19/12/2018,Lucid Air Grand Touring,Saloon,Lucid Air Grand Touring,max,270,660,167,1380,140000,140000,125000,1641917,Electric
+20/06/2018,Tesla,Saloon,Tesla Model S Plaid,max,322,535,168,800,126990,131000,118980,1298068,Plugin-Hybrid
+18/07/2022,Tesla Roadster ,Roadster,Tesla Roadster ,max,410,970,206,920,215000,215000,189000,1206717,Electric
