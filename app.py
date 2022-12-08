@@ -18,7 +18,7 @@ external_stylesheets = [
 ELECTRIC_LOGO = "/assets/electric_logo_v2.png"
 P_SPARX = "assets/favicon-32x32.png"
 
-electric_cars = pd.read_csv(r'C:\Users\Admin\Desktop\Plotly_Dashboards\Dashboard_ElectricCars\data\electric_cars_V2.csv')
+electric_cars = pd.read_csv('https://raw.githubusercontent.com/Olayemi-apps/electric-cars-dashboard/main/data/electric_cars_V2.csv')
 # Date section turned into datetime dtype
 electric_cars['Date'] = pd.to_datetime(electric_cars['Date'], format="%d/%m/%Y")
 
